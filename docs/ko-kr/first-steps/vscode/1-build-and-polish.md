@@ -35,7 +35,7 @@ Create a colorful, accessible space exploration quiz with 10 questions in a sing
 3. 다음 프롬프트를 보내고 미리 보기가 새로 고쳐지는 모습을 지켜봅니다.
 
    ```plaintext
-   Using the selected element, make the answer buttons feel more tactile: add a subtle press state, a clearer focus ring for keyboard users, and a smoother transition into the correct and incorrect colors. Change nothing else.
+   선택한 요소를 사용해 답변 버튼의 조작감을 높여 주세요. 미묘한 눌림 상태, 키보드 사용자를 위한 더 뚜렷한 포커스 링, 정답 및 오답 색상으로 부드럽게 전환되는 효과를 추가하세요. 다른 것은 변경하지 마세요.
    ```
 
 4. 변경 사항을 유지하기 전에 **Source Control**에서 변경 사항을 읽습니다.

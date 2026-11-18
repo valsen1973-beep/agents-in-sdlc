@@ -1,6 +1,6 @@
 ---
-slug: ko-kr
 title: "GitHub Copilot 워크숍"
+slug: ko-kr
 authors:
   - geektrainer
 lastUpdated: 2026-09-28

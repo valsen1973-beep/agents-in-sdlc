@@ -10,11 +10,11 @@ VS Code の **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/c
 
 まずカスタム指示を追加し、Copilot がその指示に従う様子を確認します。次に、エージェントモードを使って UI、データ層、テストにまたがるフィルター機能を構築します。その後、Playwright MCP サーバーを接続し、プルリクエストを作成する前に Copilot にブラウザーを操作させて機能をテストします。最後に、アクセシビリティ作業用のカスタムエージェントをレビューして使い、Copilot の変更を監視し、方向付けながら反復して改善します。すべてエディターを離れずに進められます。
 
-## 演習
+## レッスン
 
 | 演習 | トピック | 説明 |
 |----------|-------|-------------|
-| [0. 前提条件][ex0] | セットアップ | リポジトリと codespace を作成します |
+| [0. 前提条件][ex0] | セットアップ | リポジトリと Codespace を作成します |
 | [1. カスタム指示][ex1] | コンテキスト | VS Code でカスタム指示を追加して検証します |
 | [2. エージェントモード][ex2] | コード生成 | エージェントモードでフィルター機能を構築します |
 | [3. Playwright による MCP][ex3] | 外部ツール | Playwright MCP サーバーを使ってブラウザーで機能をテストします |
@@ -31,12 +31,12 @@ VS Code の **[GitHub Copilot Chat](https://code.visualstudio.com/docs/copilot/c
 - [ ] GitHub Codespaces へのアクセス
 
 > [!TIP]
-> 有料プランをお持ちでない場合、認証済みの学生は [GitHub Education][callout-student-plan-education] を通じて GitHub Copilot を無料で利用できます。**Copilot Student** プランには、このワークショップで使うエージェント、MCP、コードレビュー、Copilot CLI の機能が含まれるため、どのコースも完了できます。
+> 有料プランをお持ちでない場合、認証済みの学生は [GitHub Education][callout-student-plan-education] を通じて GitHub Copilot を無料で利用できます。**Copilot Student** プランには、このワークショップで使用するエージェント、MCP、コードレビュー、Copilot CLI の機能が含まれています。
 
 [callout-student-plan-education]: https://github.com/education/students
 ## 始める
 
-**[演習 0: 前提条件から始める →][ex0]**
+**[レッスン 0: 前提条件から始める →][ex0]**
 
 [ex0]: 0-prerequisites/
 [ex1]: 1-custom-instructions/

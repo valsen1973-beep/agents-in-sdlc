@@ -53,7 +53,7 @@ lastUpdated: 2026-07-09
 1. 다음 프롬프트를 사용하여 새 기능을 검증하도록 Copilot에 요청합니다.
 
     ```plaintext
-    Start the app and use Playwright MCP to check filtering against the issue and our plan. Tell me what works and what doesn't, without making changes. Stop the server you started when you're done.
+    앱을 시작하고 Playwright MCP를 사용해 이슈와 계획에 비추어 필터링을 확인해 주세요. 변경하지 말고 정상 동작하는 부분과 그렇지 않은 부분을 알려 주세요. 작업이 끝나면 시작한 서버를 중지해 주세요.
     ```
 
 > [!NOTE]

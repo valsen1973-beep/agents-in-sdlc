@@ -38,7 +38,7 @@ Review the space quiz and suggest three focused feature ideas that could each be
 5. 다음 프롬프트를 보냅니다.
 
    ```plaintext
-   Implement this issue completely. Keep the single-file, dependency-free design, test the behavior in the integrated browser, and summarize the changes when finished.
+   이 이슈를 완전히 구현해 주세요. 단일 파일의 종속성 없는 설계를 유지하고 통합 브라우저에서 동작을 테스트한 다음, 완료되면 변경 사항을 요약해 주세요.
    ```
 
 새 워크트리는 검토하고 병합할 준비가 될 때까지 이 기능을 기본 브랜치와 격리합니다.

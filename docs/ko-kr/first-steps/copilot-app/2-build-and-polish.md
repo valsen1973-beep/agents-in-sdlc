@@ -42,7 +42,7 @@ Create a space exploration quiz with 10 questions, a progress bar, score counter
 3. 다음 프롬프트를 보냅니다.
 
    ```plaintext
-   Make the selected element feel more like a mission-control display. Keep it accessible and preserve the existing light and dark themes.
+   선택한 요소가 관제 센터 화면처럼 느껴지도록 바꿔 주세요. 접근성을 유지하고 기존 밝은 테마와 어두운 테마를 보존해 주세요.
    ```
 
 4. 통합 브라우저가 새로 고쳐지는 모습을 보고 변경 사항을 확인합니다.
